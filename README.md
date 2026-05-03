@@ -1,15 +1,25 @@
 **Project by Students of  Puranmal Lahoti Government Institue of Engineering and Technology,Latur.**
 doing B.Tech in Computer Engineering
 Contributors are:
+
 1.Vaibhav Abhange(Project Manager and Java Developer)
+
 2.Aditya Pawar(Java Developer)
+
 3.Omsai Modukwar(Algorithm and Logic Designer)
+
 4.Sumedha Biradar(Presentation Designer)
+
 5.Mayuri Abhange(Algorithm and Logic Designer)
+
 6.Mangesh Kadam
+
 6.Manaswi Ekhande
+
 7.Sakshi Dixit
+
 8.Asim Mulani
+
 
 # Smart Engineering Campus Resource Optimizer (SECRO)
 A Java-based console application designed to optimize resource management in an engineering campus.  
